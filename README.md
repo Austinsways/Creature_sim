@@ -19,4 +19,4 @@ This program was written in VS Code using the C++ language extension, the standa
 
 * add graphics
 * create traits to match trait ID's
-* add multiple triat pathways and ability to add more neurons.
+* add multiple trait pathways and ability to add more neurons.
