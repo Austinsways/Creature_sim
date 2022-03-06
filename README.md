@@ -1,7 +1,7 @@
 # Overview
 This is a basic neural network/creature simulation that creates an input generated amount of creatures holding random traits that have inputs and outputs. This program is intended to evolve an entity or neural net capable of surviving in the given condition, the current conditions are simply specific locations on a grid.
 
-[Software Demo Video](https://youtu.be/KXa0wuoF8O8)
+[Software Demo Video](https://youtu.be/Mbx0NThrnbI)
 
 # Development Environment
 This program was written in VS Code using the C++ language extension, the standard namespace and the iostream and time.h librarys.
